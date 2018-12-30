@@ -10,7 +10,7 @@
     <RepositoryType>git</RepositoryType>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageOutputPath>../../nupkgs</PackageOutputPath>
-    <RepositoryUrl>https://github.com/MiLibCode/MiLib-Extensions-DependencyInjection</RepositoryUrl>
+    <RepositoryUrl>https://github.com/MiLibCode/MiLib-Extensions-Core</RepositoryUrl>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
