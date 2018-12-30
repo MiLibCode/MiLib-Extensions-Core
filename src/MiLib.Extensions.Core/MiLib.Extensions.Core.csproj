@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace />
+    <Authors>Moses Ibiwoye</Authors>
+    <Company>Moses Ibiwoye</Company>
+    <Description>General library utilities for based on NetStandard. Heavily inspired by Abp</Description>
+    <Copyright>Copyright © 2018 Moses Ibiwoye</Copyright>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageOutputPath>../../nupkgs</PackageOutputPath>
+    <RepositoryUrl>https://github.com/MiLibCode/MiLib-Extensions-DependencyInjection</RepositoryUrl>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JetBrains.Annotations" Version="2018.2.1" />
+  </ItemGroup>
+
+</Project>
